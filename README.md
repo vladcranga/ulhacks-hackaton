@@ -36,8 +36,10 @@ It is stored in another repository, which you can find [here](https://github.com
 
 ## Demo Video
 
-Get to know EduHub by viewing our ![demo video](https://www.youtube.com/watch?v=Qjjvgs1iqV8).
+Get to know EduHub by viewing our [demo video](https://www.youtube.com/watch?v=Qjjvgs1iqV8).
+
+#### Additional notes
 
 *The extension could not be finished during the hackaton, but it may be in the future.
 
-Note: The pictures used in this project are copyright-free. For those that are not, the authors are mentioned in the HTML comments located in the source code, next to the pictures.  
+The pictures used in this project are copyright-free. For those that are not, the authors are mentioned in the HTML comments located in the source code, next to the pictures.  
