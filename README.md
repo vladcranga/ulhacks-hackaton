@@ -36,7 +36,7 @@ It is stored in another repository, which you can find [here](https://github.com
 
 ## Demo Video
 
-![demo video](/video/demo.mp4)
+Get to know EduHub by viewing our ![demo video](https://www.youtube.com/watch?v=Qjjvgs1iqV8).
 
 *The extension could not be finished during the hackaton, but it may be in the future.
 
