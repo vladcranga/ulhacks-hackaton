@@ -4,6 +4,12 @@ The project that empowers learning created for the [ULHacks Hackaton](https://ul
 
 EduHub represents an all-in-one website that has a productivity blog, a link to a chrome extension that helps eliminate distractions, and a forum where the members can learn new things. It is made for students, by students in order to ensure that they achieve their goals.
 
+### Team Members
+Jon - [GitHub Profile](https://github.com/jonathankim345)
+Kinukaiii (Charissa) - Discord tag: kinukaiii#7987 
+Ra - [GitHub Profile](https://github.com/RealAwesomeness)
+Vlad (me)
+
 ## The main page
 
 The main page has a simple yet attractive design. You can see what the hub offers and clicking the button will take you to the section where you can choose what to visit next.
@@ -27,6 +33,10 @@ Made using Ruby on Rails, the forum offers the users a way to interact with like
 ![an image of a forum post](/images/forum.png)
 
 It is stored in another repository, which you can find [here](https://github.com/vladcranga/ruby-forum), along with the instructions to set it up.
+
+## Demo Video
+
+![demo video](https://www.youtube.com/watch?v=Qjjvgs1iqV8)
 
 *The extension could not be finished during the hackaton, but it may be in the future.
 
